@@ -1,4 +1,7 @@
 # RAIHAN_AHAD
+<p align="center">
+  <img src="./profile-banner.png" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Raihan Ahad! 👋</h1>
 
 <p align="center">
